@@ -1,0 +1,5 @@
+finance.db
+data/
+__pycache__/
+*.pyc
+finance.db

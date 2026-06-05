@@ -1,0 +1,56 @@
+year,sector,avg_return,ticker_count
+2020,Information Technology,0.447615,69
+2020,Consumer Discretionary,0.313704,48
+2020,Health Care,0.296066,56
+2020,Communication Services,0.226735,22
+2020,Industrials,0.225901,77
+2020,Materials,0.225171,26
+2020,Consumer Staples,0.144403,35
+2020,Financials,0.082315,73
+2020,Utilities,-0.012845,29
+2020,Real Estate,-0.013288,31
+2020,Energy,-0.297228,20
+2021,Energy,0.641226,21
+2021,Real Estate,0.54559,31
+2021,Information Technology,0.401455,70
+2021,Materials,0.352152,26
+2021,Consumer Discretionary,0.320243,48
+2021,Financials,0.31694,75
+2021,Industrials,0.312369,77
+2021,Health Care,0.286234,56
+2021,Utilities,0.192456,29
+2021,Consumer Staples,0.182131,35
+2021,Communication Services,0.137352,22
+2022,Energy,0.556628,21
+2022,Utilities,0.069608,30
+2022,Consumer Staples,0.018965,35
+2022,Health Care,-0.04695,57
+2022,Industrials,-0.068547,77
+2022,Materials,-0.076611,26
+2022,Financials,-0.100919,75
+2022,Consumer Discretionary,-0.221008,48
+2022,Real Estate,-0.227207,31
+2022,Information Technology,-0.251187,70
+2022,Communication Services,-0.288292,22
+2023,Consumer Discretionary,0.606859,48
+2023,Information Technology,0.570083,70
+2023,Industrials,0.324625,78
+2023,Communication Services,0.313416,22
+2023,Financials,0.218106,75
+2023,Materials,0.133727,26
+2023,Real Estate,0.120637,31
+2023,Energy,0.069983,21
+2023,Health Care,0.061241,57
+2023,Utilities,0.006225,30
+2023,Consumer Staples,-0.037297,36
+2024,Information Technology,0.411588,70
+2024,Financials,0.326927,75
+2024,Communication Services,0.324764,22
+2024,Consumer Discretionary,0.28994,48
+2024,Utilities,0.28298,30
+2024,Industrials,0.24598,78
+2024,Energy,0.148816,21
+2024,Real Estate,0.075238,31
+2024,Materials,0.028366,26
+2024,Consumer Staples,0.009733,36
+2024,Health Care,-0.015828,57

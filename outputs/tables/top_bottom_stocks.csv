@@ -1,0 +1,67 @@
+sector,ticker,company,total_return,rank_type,rank
+Communication Services,TTD,Trade Desk (The),3.426966,top,1
+Communication Services,TMUS,T-Mobile US,1.861595,top,2
+Communication Services,META,Meta Platforms,1.829147,top,3
+Communication Services,PSKY,Paramount Skydance Corporation,-0.71664,bottom,1
+Communication Services,WBD,Warner Bros. Discovery,-0.673805,bottom,2
+Communication Services,SATS,EchoStar,-0.467484,bottom,3
+Consumer Discretionary,TSLA,"Tesla, Inc.",13.552015,top,1
+Consumer Discretionary,DECK,Deckers Brands,6.170587,top,2
+Consumer Discretionary,WSM,"Williams-Sonoma, Inc.",4.713113,top,3
+Consumer Discretionary,NCLH,Norwegian Cruise Line Holdings,-0.562298,bottom,1
+Consumer Discretionary,CCL,Carnival Corporation,-0.506093,bottom,2
+Consumer Discretionary,WYNN,Wynn Resorts,-0.385886,bottom,3
+Consumer Staples,COST,Costco,2.442518,top,1
+Consumer Staples,CASY,Casey's,1.593261,top,2
+Consumer Staples,WMT,Walmart,1.462307,top,3
+Consumer Staples,EL,Estée Lauder Companies (The),-0.617612,bottom,1
+Consumer Staples,DG,Dollar General,-0.48758,bottom,2
+Consumer Staples,BF-B,Brown–Forman,-0.392772,bottom,3
+Energy,TRGP,Targa Resources,3.944077,top,1
+Energy,EQT,EQT Corporation,3.757748,top,2
+Energy,TPL,Texas Pacific Land Corporation,3.712817,top,3
+Energy,APA,APA Corporation,-0.026728,bottom,1
+Energy,SLB,Schlumberger,0.050907,bottom,2
+Energy,HAL,Halliburton,0.183932,bottom,3
+Financials,ARES,Ares Management,4.92964,top,1
+Financials,KKR,KKR & Co.,4.337538,top,2
+Financials,APO,Apollo Global Management,3.059383,top,3
+Financials,GPN,Global Payments,-0.381203,bottom,1
+Financials,FIS,Fidelity National Information Services,-0.364403,bottom,2
+Financials,PYPL,PayPal,-0.228623,bottom,3
+Health Care,LLY,Lilly (Eli),5.244902,top,1
+Health Care,MCK,McKesson Corporation,3.266177,top,2
+Health Care,COR,Cencora,2.102881,top,3
+Health Care,BAX,Baxter International,-0.63144,bottom,1
+Health Care,BIIB,Biogen,-0.489566,bottom,2
+Health Care,CVS,CVS Health,-0.310641,bottom,3
+Industrials,VRT,Vertiv,9.388556,top,1
+Industrials,FIX,Comfort Systems USA,7.989174,top,2
+Industrials,AXON,Axon Enterprise,6.893417,top,3
+Industrials,BA,Boeing,-0.467177,bottom,1
+Industrials,SWK,Stanley Black & Decker,-0.454764,bottom,2
+Industrials,LUV,Southwest Airlines,-0.353833,bottom,3
+Information Technology,NVDA,Nvidia,22.019701,top,1
+Information Technology,SMCI,Supermicro,11.983496,top,2
+Information Technology,ANET,Arista Networks,7.710433,top,3
+Information Technology,INTC,Intel,-0.630682,bottom,1
+Information Technology,SWKS,Skyworks Solutions,-0.194574,bottom,2
+Information Technology,WDC,Western Digital,-0.079534,bottom,3
+Materials,STLD,Steel Dynamics,2.716213,top,1
+Materials,FCX,Freeport-McMoRan,2.053742,top,2
+Materials,CRH,CRH plc,1.672675,top,3
+Materials,IFF,International Flavors & Fragrances,-0.244525,bottom,1
+Materials,BALL,Ball Corporation,-0.090762,bottom,2
+Materials,DOW,Dow Inc.,-0.04658,bottom,3
+Real Estate,IRM,Iron Mountain,3.433609,top,1
+Real Estate,CBRE,CBRE Group,1.118901,top,2
+Real Estate,WELL,Welltower,0.834656,top,3
+Real Estate,BXP,"BXP, Inc.",-0.306946,bottom,1
+Real Estate,ARE,Alexandria Real Estate Equities,-0.28384,bottom,2
+Real Estate,DOC,Healthpeak Properties,-0.240464,bottom,3
+Utilities,VST,Vistra Corp.,5.990466,top,1
+Utilities,CEG,Constellation Energy,4.542046,top,2
+Utilities,NRG,NRG Energy,1.809881,top,3
+Utilities,AES,AES Corporation,-0.260092,bottom,1
+Utilities,D,Dominion Energy,-0.185229,bottom,2
+Utilities,ES,Eversource Energy,-0.182865,bottom,3
