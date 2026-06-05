@@ -94,7 +94,7 @@ All data is free and publicly available. Re-running `fetch_data.py` pulls fresh 
 ### 1. Clone the repo and install dependencies
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/finance-sector-analysis.git
+git clone https://github.com/aidanraync/finance-sector-analysis.git
 cd finance-sector-analysis
 pip install yfinance pandas requests lxml matplotlib seaborn
 ```
